@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test hello world",
+      "setup": "",
+      "run": "python -m unittest hello_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
